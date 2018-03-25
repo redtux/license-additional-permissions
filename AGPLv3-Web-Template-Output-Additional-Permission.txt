@@ -31,8 +31,9 @@ CSS, and/or Javascript.
 3. No Weakening Of Copyleft.
 
 The availability of this Additional Permission does not imply any general
-presumption that third-party software is unaffected by the copyleft
-requirements of the AGPLv3 license of this Program.
+presumption that software is unaffected by the copyleft requirements of the
+AGPLv3 license of this Program or another Program separately licensed under
+AGPLv3.
 
 4. Revised Versions of this Additional Permission.
 
